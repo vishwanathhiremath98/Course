@@ -5,6 +5,6 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Vishwanath Hiremath
+Vishwanath Hiremath, Bijapur
 Algorithm Analysis
 However I studies during this college, it sounded more logical annd very helpful in problem solving
